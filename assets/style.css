@@ -1,0 +1,37 @@
+body {
+    background-color: skyblue;
+    font-family: sans-serif;
+}
+h1 {
+    color: whitesmoke;
+}
+
+#list {
+    background-color: whitesmoke;
+    margin: 2% 0%;
+}
+
+#total {
+    background-color: honeydew;
+    margin: 2% 0%;
+    color: lightslategray;
+}
+
+table {
+    border-color: gray;
+}
+
+tr {
+    margin: 50%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.actionBtn {
+    margin: 1em;
+}
+  
